@@ -1,5 +1,5 @@
 console.log('Loaded!');
 
-var element = document.getElementByID('main-text');
+var element=document.getElementById('main-text');
 
 element.innerHTML="Ne value";
